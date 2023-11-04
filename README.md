@@ -18,5 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 ![Screenshot_20231104_155616](https://github.com/tvishabhatt/Media_booster_pr3/assets/122964289/224b999e-cabd-4760-8b6e-20b6a1a626a4)
 ![Screenshot_20231104_155621](https://github.com/tvishabhatt/Media_booster_pr3/assets/122964289/a45a66c7-8820-44b2-b35b-28b2aa951b21)
 ![Screenshot_20231104_155629](https://github.com/tvishabhatt/Media_booster_pr3/assets/122964289/1c1557bd-8da8-403d-bcb8-6278d7dd2f3a)
+![Screenshot_20231104_155640](https://github.com/tvishabhatt/Media_booster_pr3/assets/122964289/d99439ac-7cbd-47b0-8674-e993be3b01de)
+
 
 
