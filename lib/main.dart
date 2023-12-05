@@ -22,12 +22,23 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
+<<<<<<< HEAD
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
       home: Splace_Screen(),
+=======
+ 
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        useMaterial3: true,
+      ),
+      home: Screen1(),
+>>>>>>> origin/master
     );
   }
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
